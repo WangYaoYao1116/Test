@@ -26,10 +26,6 @@
 ![这是一个图片](https://www.google.com.sg/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 
-#####这是代码框
-	while true:
-	  do echo hehe;
-	done
 
 ####这也是代码框
 `while true:
