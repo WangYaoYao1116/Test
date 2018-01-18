@@ -37,4 +37,3 @@
 
 * memcached
 * redis
-
